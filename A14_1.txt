@@ -1,0 +1,10 @@
+Gateway Node
+------------
+Agregue una regla de iptables para acceder al dashboard (en el puerto 80) a través del puerto
+50080 del gateway
+
+Local Host
+----------
+Desde su local host, abra un navegador web y acceda al dashboard usando el siguiente
+enlace: http://[GATEWAY_IP]:50080/horizon
+PREGUNTA10: Pegar SS
